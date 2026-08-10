@@ -1,0 +1,3 @@
+/* THANKS */
+
+Bootstrap template credit to https://templateflip.com.
